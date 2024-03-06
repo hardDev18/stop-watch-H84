@@ -5,7 +5,7 @@
 
 ---
 ### View the project online🙃
-[View the website](https://harddev18.github.io/app-stop-watch-H84/)
+[View the website](https://harddev18.github.io/stop-watch-H84/)
 
 ---
 ### Items used in the project😎
